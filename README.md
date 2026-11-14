@@ -1,3 +1,6 @@
+
+**Languages:** [English](README.md) | [Português](README.PORTUGUÊS.md) | [Español](README-ESPAÑOL.md)
+
 # HealthProof — Verifiable Health Data Infrastructure
 
 HealthProof is a **Web3 medical verification and interoperability infrastructure** that enables patients, laboratories, and healthcare providers in Chile to securely exchange medical documents while preserving **patient sovereignty, data confidentiality, and legal compliance**.
