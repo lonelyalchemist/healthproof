@@ -4,7 +4,7 @@ HealthProof é uma **infraestrutura Web3 de verificação e interoperabilidade m
 
 O protocolo combina **criptografia híbrida do lado do cliente (ECDH + AES-GCM), infraestrutura blockchain soberana (Avalanche L1) e armazenamento distribuído** para garantir que os registros médicos permaneçam privados, portáteis e interoperáveis entre instituições.
 
-**Contexto legal:** HealthProof está projetado para cumprir com a **Lei 21.668** do Chile (publicada em 28 de maio de 2024), que modifica a Lei 20.584 para estabelecer a **interoperabilidade das fichas clínicas (Prontuários Médicos)** entre prestadores públicos e privados. A lei exige que os prestadores adotem medidas que habilitem a interoperabilidade, garantam a continuidade do atendimento ao paciente e assegurem a proteção e conservação adequada dos registros por pelo menos 15 anos.
+**Contexto legal:** HealthProof está projetado para cumprir com a **Lei 21.668** do Chile (publicada em 28 de maio de 2024), que modifica a Lei 20.584 para estabelecer a **interoperabilidade das fichas clínicas (prontuários médicos)** entre prestadores públicos e privados. A lei exige que os prestadores adotem medidas que habilitem a interoperabilidade, garantam a continuidade do atendimento ao paciente e assegurem a proteção e conservação adequada dos registros por pelo menos 15 anos.
 
 ---
 
