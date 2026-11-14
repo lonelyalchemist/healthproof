@@ -247,7 +247,7 @@ As wallets embutidas de Privy usam **Multi-Party Computation (MPC)**: a chave pr
 
 - **Wallets embutidas**: Oferecem uma ótima UX (sem frase semente) mas o usuário não possui a chave privada completa.
 - **Wallets externas** (MetaMask): São completamente não custodiais: o usuário possui a frase semente e a chave nunca toca os servidores da Privy.
-- A **Soberania de dados** da HealthProof se aplica na **camada de criptografia ECDH**, não na camada de wallet. Mesmo que a Privy desaparecesse, um paciente com sua chave privada ECDH (backup ou recuperada) ainda pode descriptografar seus documentos médicos.
+- A **soberania de dados** da HealthProof se aplica na **camada de criptografia ECDH**, não na camada de wallet. Mesmo que a Privy desaparecesse, um paciente com sua chave privada ECDH (backup ou recuperada) ainda pode descriptografar seus documentos médicos.
 
 ## Futuro: Rota de Migração de Wallet
 
