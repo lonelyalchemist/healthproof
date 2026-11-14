@@ -72,7 +72,7 @@ O Ministério da Saúde do Chile está no processo de publicar a regulação té
 
 ---
 
-# Resumo dA Arquitetura
+# Resumo da Arquitetura
 
 HealthProof segue uma **arquitetura de protocolo em múltiplas camadas**, separando a interação clínica, a segurança criptográfica, o armazenamento distribuído e a verificação blockchain.
 
