@@ -509,20 +509,20 @@ healthproof/
 │           │   ├── hooks/           # Hooks do React (auth, keys, sync)
 │           │   ├── lib/             # Utilidades, env, contracts, metatx
 │           │   ├── services/        # Criptografia, armazenamento, API
-│           │   ├── state/           # Stores Zustand
+│           │   ├── state/           # Store Zustand
 │           │   └── types/           # Tipos de domínio e API
 │           ├── messages/en.json
 │           ├── messages/es.json
 │           └── public/
 ├── infra/
 │   └── avalanche/
-│       ├── contracts/           # Smart contracts Solidity
+│       ├── contracts/           # Contratos Inteligentes Solidity
 │       │   ├── src/
 │       │   └── test/
 │       └── network/             # Configuração de subnet
 ├── packages/
 │   ├── blockchain-sdk/          # Utilidades blockchain compartilhadas
-│   ├── contracts/               # ABIs de contratos e scripts de despliegue
+│   ├── contracts/               # ABIs de contratos e scripts de implantação
 │   ├── did/                     # Utilidades DID
 │   └── encryption/              # Helpers de criptografia compartilhados
 ├── docs/
