@@ -539,18 +539,18 @@ Crie um arquivo `.env` em `apps/frontend/healthproof-frontend/`:
 
 ```bash
 # Autenticação Privy
-NEXT_PUBLIC_PRIVY_APP_ID=seu-id-do-app-privy
+NEXT_PUBLIC_PRIVY_APP_ID=your-privy-app-id
 
 # Supabase (apenas banco de dados — autenticação gerenciada pelo Privy)
-NEXT_PUBLIC_SUPABASE_URL=https://seu-projeto.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=sua-chave-de-funcao-de-serviço
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 
 # Pinata / Armazenamento (Fase 0 — migrará para armazenamento privado)
-PINATA_JWT_SECRET=seu-jwt-pinata
-NEXT_PUBLIC_PINATA_GATEWAY=https://seu-gateway.mypinata.cloud
+PINATA_JWT_SECRET=your-pinata-jwt
+NEXT_PUBLIC_PINATA_GATEWAY=https://your-gateway.mypinata.cloud
 
 # Blockchain
-NEXT_PUBLIC_RPC_URL=http://seu-nó-hygieia:9654/ext/bc/.../rpc
+NEXT_PUBLIC_RPC_URL=http://your-hygieia-node:9654/ext/bc/.../rpc
 NEXT_PUBLIC_CHAIN_ID=21668
 
 # Endereços de Contratos (Hygieia L1)
@@ -569,7 +569,7 @@ NEXT_PUBLIC_TRUSTED_FORWARDER=0x...
 
 # Segredos do servidor
 DEPLOYER_PRIVATE_KEY=0x...
-SHAMIR_ENCRYPTION_KEY=sua-chave-shamir
+SHAMIR_ENCRYPTION_KEY=your-shamir-key
 ```
 
 ---
