@@ -364,7 +364,7 @@ const result = await grantPermissionOnChain({ request, ...payload });
 
 Os pacientes podem designar **guardiões** (familiares de confiança ou médicos) que obtêm autoridade limitada:
 
-- **Futuro**: Participar na **recuperação por umbral Shamir Secret Sharing** (ex. 2-de-3 guardiões necessários para reconstruir a chave privada ECDH do paciente se perder todos os dispositivos).
+- **Futuro**: Participar na **recuperação por umbral Shamir Secret Sharing** (ex. 2-de-3 guardiões necessários para reconstruir a chave privada ECDH do paciente, se ele perder todos os seus dispositivos).
 - **Acesso de emergência**: Um guardião pode ativar uma solicitação de permissão de emergência com time-lock, registrada imutavelmente em `AuditTrail`.
 
 ## Prevenção de Conflito de Chaves
