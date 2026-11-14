@@ -1,5 +1,5 @@
 
-**Languages:** [English](README.md) | [Português](README.PORTUGUÊS.md) | [Español](README-ESPAÑOL.md)
+**Languages:** [English](README.md) | [Português](README-PORTUGUÊS.md) | [Español](README-ESPAÑOL.md)
 
 # HealthProof — Verifiable Health Data Infrastructure
 
