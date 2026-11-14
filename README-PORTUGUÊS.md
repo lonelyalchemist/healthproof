@@ -200,7 +200,7 @@ Quando um paciente (ou médico autorizado) baixa:
 4. HKDF → desencapsular a chave de sessão AES.
 5. AES-GCM descriptografa → documento original.
 
-## 4. Compartilhar (Re-wrap)
+## 4. Compartilhar
 
 Quando um paciente compartilha com um médico:
 
