@@ -717,4 +717,4 @@ https://github.com/jpgsChile/healthproof
 
 > **Aviso legal:** HealthProof é um projeto de infraestrutura experimental. Ainda não está certificado para uso médico em produção no Chile. a Implantação clínica requer revisão pelo **Ministério da Saúde** e pela **Superintendência de Saúde** sob a futura regulamentação técnica da Lei 21.668.
 
-> **Nota do Tradutor:** Este repositório foi traduzido para português para servir como *sandbox* e referência técnica para desenvolvedores brasileiros interessados em testar soluções e arquiteturas compatíveis com o ecossistema de **Open Health** no Brasil.
+> **Nota do Tradutor:** Esse repositório foi traduzido para português para servir como *sandbox* e referência técnica para desenvolvedores brasileiros interessados em testar soluções e arquiteturas compatíveis com o ecossistema de **Open Health** no Brasil.
