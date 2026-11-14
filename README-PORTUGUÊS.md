@@ -485,6 +485,7 @@ Implementar um **IPFS private swarm** ou **rede permisionada libp2p**:
 
 # Estrutura do Monorepo
 
+```
 healthproof/
 ├── apps/
 │   ├── backend/              # (futuro) serviços backend dedicados
@@ -502,7 +503,7 @@ healthproof/
 │           │   │   │   ├── share/
 │           │   │   │   └── upload/
 │           │   │   └── landing/
-│           │   ├── actions/         # Ações do Servidor (on-chain + DB)
+│           │   ├── actions/         # Server Actions (on-chain + DB)
 │           │   ├── components/
 │           │   ├── features/        # Módulos de domínio
 │           │   ├── hooks/           # Hooks do React (auth, keys, sync)
@@ -515,13 +516,13 @@ healthproof/
 │           └── public/
 ├── infra/
 │   └── avalanche/
-│       ├── contracts/           # Contratos Inteligentes Solidity
+│       ├── contracts/           # Smart contracts Solidity
 │       │   ├── src/
 │       │   └── test/
 │       └── network/             # Configuração de subnet
 ├── packages/
 │   ├── blockchain-sdk/          # Utilidades blockchain compartilhadas
-│   ├── contracts/               # ABIs de contratos e scripts de implatanção
+│   ├── contracts/               # ABIs de contratos e scripts de despliegue
 │   ├── did/                     # Utilidades DID
 │   └── encryption/              # Helpers de criptografia compartilhados
 ├── docs/
